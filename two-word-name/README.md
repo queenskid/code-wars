@@ -10,9 +10,3 @@ Patrick Feeney => P.F
 
 
 https://www.codewars.com/kata/abbreviate-a-two-word-name/train/javascript
-
-
-function abbrevName(){
-  var names = [
-
-}
